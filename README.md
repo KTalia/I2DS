@@ -1,2 +1,2 @@
 # I2DS
-Introduction to Data Science 2024/25
+Lab & Exam Exercises for Introduction to Data Science 2024/25
